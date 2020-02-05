@@ -1,0 +1,1 @@
+java -DBindingURLs=tcp://planetlab1.di.fct.unl.pt:39999 -DDataURL=nat://-/- -cp $FEEDS_CLASSPATH meeds.sys.MeedsProxy

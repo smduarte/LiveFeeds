@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="IncomingTcpTransport.java">
+        <attr name="class_dependency_deeds.sys.transport.AbstractTransport" stringvalue="IncomingTcpTransport"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="IncomingTcpTransport.TcpConnection;IncomingTcpTransport"/>
+    </fileobject>
+    <fileobject name="TcpTransportFactory.java">
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b470200007870000000017400025331"/>
+    </fileobject>
+    <fileobject name="OutgoingTcpTransport.java">
+        <attr name="class_dependency_deeds.sys.transport.AbstractTransport" stringvalue="OutgoingTcpTransport"/>
+    </fileobject>
+</attributes>

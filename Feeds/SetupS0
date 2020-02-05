@@ -1,0 +1,1 @@
+java -cp $FEEDS_CLASSPATH feeds/setup/Setup /tmp/FEEDS/Registry/S0
