@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="sensing/simsim/PipelineSimJ.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="/zLIBS/Blas.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/colt.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/event-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/gettext-commons-0.9.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/interpreter-1.6.8.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/jfcunit.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/kd.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/language-1.6.7.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/logger-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/metadata-extractor-2.3.1-nosun.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/metadata-extractor-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/optimization.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/signpost-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/ssj.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/swing-worker.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/swingx-bean.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/swingx-ws-2009_06_14.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/swingx.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/tcode.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/vecmath.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/xpp3_min-1.1.4c.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SimSim"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SimSimScheduler"/>
+	<classpathentry kind="lib" path="/zLIBS/xstream-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/simMap.jar"/>
+	<classpathentry kind="lib" path="/zLIBS/groovy-all-1.8.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

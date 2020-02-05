@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0
+END
+runenv_cluster.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/runenv_cluster.sh
+END
+checkstatus.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/checkstatus.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/.project
+END
+runenv_dev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/runenv_dev.sh
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/.classpath
+END
+resultcount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/resultcount.sh
+END
+map6.osm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/map6.osm
+END
+env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/env.sh
+END
+svn-ignore.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/svn-ignore.txt
+END
+displayoff.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/displayoff.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/build.xml
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/run.sh
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/deploy.sh
+END
+segmentRating_1800.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/segmentRating_1800.tsv
+END
+log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/log.sh
+END

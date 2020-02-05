@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/di-commonsense/!svn/ver/51/4Sensing/trunk/src/sensing/persistence/core/sensors
+END
+SensorService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/51/4Sensing/trunk/src/sensing/persistence/core/sensors/SensorService.groovy
+END
+SensorData.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/sensors/SensorData.groovy
+END
+GPSReading.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/sensors/GPSReading.groovy
+END

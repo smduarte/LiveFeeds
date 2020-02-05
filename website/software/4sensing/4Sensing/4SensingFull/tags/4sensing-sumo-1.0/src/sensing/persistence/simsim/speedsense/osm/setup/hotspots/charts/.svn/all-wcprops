@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts
+END
+ResultSetStats.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ResultSetStats.groovy
+END
+CongestionDynamismChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/CongestionDynamismChart.groovy
+END
+DetectionLatency.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/DetectionLatency.groovy
+END
+DetectionRateChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/DetectionRateChart.groovy
+END
+LatencyHistogramChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/LatencyHistogramChart.groovy
+END
+ResultSetAverage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ResultSetAverage.groovy
+END
+ErrorChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ErrorChart.groovy
+END
+ErrorRateChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ErrorRateChart.groovy
+END
+MsgPerDetectionChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/MsgPerDetectionChart.groovy
+END
+AvgLatencyChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/AvgLatencyChart.groovy
+END
+Detections.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/Detections.groovy
+END
+AvgQueryErrorChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/AvgQueryErrorChart.groovy
+END
+CopyOfLatencyHistogramChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/CopyOfLatencyHistogramChart.groovy
+END
+CorrectedQueryError.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/CorrectedQueryError.groovy
+END
+DetectionsPerLevelChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/DetectionsPerLevelChart.groovy
+END
+ResultsPerSlot.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ResultsPerSlot.groovy
+END
+ResultSetSampler.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/ResultSetSampler.groovy
+END
+SegmentHistory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/SegmentHistory.groovy
+END
+QueryError.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/QueryError.groovy
+END
+QueryErrorChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/charts/QueryErrorChart.groovy
+END

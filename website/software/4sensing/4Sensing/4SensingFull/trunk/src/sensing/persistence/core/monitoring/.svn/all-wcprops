@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/monitoring
+END
+WorkloadAggregate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/monitoring/WorkloadAggregate.groovy
+END
+VTWorkload.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/monitoring/VTWorkload.groovy
+END
+MonitoringService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/monitoring/MonitoringService.groovy
+END

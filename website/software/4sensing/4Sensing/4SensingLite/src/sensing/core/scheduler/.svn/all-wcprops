@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/scheduler
+END
+SchedulerProvider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/scheduler/SchedulerProvider.groovy
+END
+SchedulerService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/scheduler/SchedulerService.groovy
+END

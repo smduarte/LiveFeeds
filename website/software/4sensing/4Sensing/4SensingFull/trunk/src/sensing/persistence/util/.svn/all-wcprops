@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/src/sensing/persistence/util
+END
+GPDSegHist.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/GPDSegHist.groovy
+END
+FilteTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/FilteTest.groovy
+END
+DataSets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/src/sensing/persistence/util/DataSets.groovy
+END
+GPDMessages.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/GPDMessages.groovy
+END
+DataToGpd.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/DataToGpd.groovy
+END
+GPDLatency.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/GPDLatency.groovy
+END
+GPDWorkload.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/GPDWorkload.groovy
+END
+SpeedError3.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/di-commonsense/!svn/ver/11/4Sensing/trunk/src/sensing/persistence/util/SpeedError3.groovy
+END
+SpeedError2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/di-commonsense/!svn/ver/13/4Sensing/trunk/src/sensing/persistence/util/SpeedError2.groovy
+END
+SpeedError.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/util/SpeedError.groovy
+END
+MatrixOpsCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/src/sensing/persistence/util/MatrixOpsCategory.groovy
+END
+GPDError.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/util/GPDError.groovy
+END

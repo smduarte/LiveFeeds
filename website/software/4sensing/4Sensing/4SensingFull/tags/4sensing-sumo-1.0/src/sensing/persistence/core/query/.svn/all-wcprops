@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query
+END
+Router.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/Router.groovy
+END
+Query.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/Query.groovy
+END
+QueryContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/QueryContext.groovy
+END
+QueryResult.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/QueryResult.groovy
+END
+QueryControl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/QueryControl.groovy
+END
+FailureNotify.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/FailureNotify.groovy
+END
+QueryData.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/QueryData.groovy
+END
+QueryService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/query/QueryService.groovy
+END

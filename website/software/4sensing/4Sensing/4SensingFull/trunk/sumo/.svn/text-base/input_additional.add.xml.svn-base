@@ -1,0 +1,4 @@
+<additional>
+ 	<meandata-edge id="edgestats" freq="300" excludeEmpty="true" file="sumocfg4_meandata-edge_5m_nointernal.xml"/> -->
+	<vtypeprobe id="test1" freq="5" file="sumocfg4_vtypeprobe_5s_nointernal.xml"/> 
+</additional>

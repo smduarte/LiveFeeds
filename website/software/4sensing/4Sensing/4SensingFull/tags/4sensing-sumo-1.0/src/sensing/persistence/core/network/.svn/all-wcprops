@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network
+END
+NetworkMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/NetworkMessage.groovy
+END
+NetworkService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/NetworkService.groovy
+END
+Peer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/Peer.groovy
+END
+UnavailablePeer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/UnavailablePeer.groovy
+END
+Spanner.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/Spanner.groovy
+END
+PeerDB.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/PeerDB.groovy
+END
+NetworkProvider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/NetworkProvider.groovy
+END
+Tree.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/network/Tree.groovy
+END

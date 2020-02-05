@@ -1,0 +1,92 @@
+package sensing.persistence.core.pipeline;
+import groovy.lang.Closure;
+
+import java.util.concurrent.LinkedBlockingQueue;
+import sensing.persistence.core.sensors.*;
+
+
+public class Pipeline extends BasicPipeline {
+	//protected List<Selector> selectors = [];
+	protected processedTuples = 0;
+	def sensorInput;
+	
+	//private LinkedBlockingQueue inQueue = new LinkedBlockingQueue();
+	
+	/* Select
+	 * 
+
+
+	public Pipeline select(Selector s) {
+		selectors << s;
+		return this;
+	}
+
+	public Pipeline select(Closure clos) {
+		return select(new Selector(clos));
+	}
+	 */	
+
+	
+	public void input(data) {
+		processedTuples++;
+		super.input(data);
+	}
+		
+	
+	/*
+	 *  Input
+
+//	public void input(Object o) {
+//		inQueue.put(o);
+//	}
+
+	public int getInQueueSize() {
+		//return inQueue.size();
+		return 0;
+	}
+
+//	private void readInput() {
+//		head?.input(inQueue.take());
+//	}
+	 */
+	
+	/*
+	 *  Start
+	 */
+
+	public void start() {
+		selectors.each {
+			it.setPipelineHead(head);
+			it.start();
+		}
+	
+		sensorInput.each{sensorClass ->
+			println "setting listener for ${sensorClass}"
+			services.sensor.addListener(sensorClass) { reading ->
+				boolean queryeval = querycontext.query.eval(reading);
+				if(queryeval) {
+					input(reading);
+				}
+				return queryeval;
+			}			
+		}
+	}
+
+	public void stop() {
+		selectors.each {
+			it.setPipelineHead(head);
+			it.stop();
+		}
+		services.sensor.removeListeners(this);
+		dispose();
+	}
+	
+	/*
+	 * Monitoring
+	 */
+	
+	public int getProcessedTuples() {
+		return processedTuples;
+	}
+	
+}

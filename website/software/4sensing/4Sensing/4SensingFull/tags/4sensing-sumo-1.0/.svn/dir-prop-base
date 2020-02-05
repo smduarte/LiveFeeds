@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 76
+*.bck
+*.tmp
+results
+logs
+lib
+bindev
+bin
+oldresults
+antbin
+package
+.settings
+
+END

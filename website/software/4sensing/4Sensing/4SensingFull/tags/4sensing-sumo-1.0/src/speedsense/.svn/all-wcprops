@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense
+END
+SpeedWindows.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/SpeedWindows.groovy
+END
+MappedSpeed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/MappedSpeed.groovy
+END
+Hotspot.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/Hotspot.groovy
+END
+TrafficSpeedW.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficSpeedW.groovy
+END
+TrafficRaw.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficRaw.groovy
+END
+TrafficSpeed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficSpeed.groovy
+END
+TrafficSpeed4.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficSpeed4.groovy
+END
+TrafficSpeed3.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficSpeed3.groovy
+END
+AggregateSpeed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/AggregateSpeed.groovy
+END
+TrafficSpeed2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficSpeed2.groovy
+END
+TravelTime.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TravelTime.groovy
+END
+AggregateTravelTime.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/AggregateTravelTime.groovy
+END
+TravelTimeVT.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TravelTimeVT.groovy
+END
+TrafficHotspots.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/TrafficHotspots.groovy
+END
+PMaxProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/PMaxProcessor.groovy
+END

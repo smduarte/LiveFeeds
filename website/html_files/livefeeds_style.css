@@ -1,0 +1,179 @@
+/*
+PERSYS - CITI
+Cascading Style Sheet
+Author: Sérgio Duarte
+
+
+/* Basic Elements Styling */
+
+body {
+	font-family: "bitstream vera sans", "Lucida Grande", "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	margin: 0px 0px 100px 100px;
+	padding: 0px;
+	background-color: #f0f0f0;
+	width:800px;
+}
+
+#banner table {
+	padding: 10px;
+	text-align: left; 
+	color: #036;
+	font-size: 1.75em;
+	letter-spacing: 1px;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	vertical-align: top;
+	width: 100%;
+
+	background-image: url("banner_bg.gif");
+	background-position: top left;
+	background-repeat: repeat-x;
+	background-color: #00ff00;
+	height:100px;
+}
+
+#menu {
+        padding: 4px ;
+        margin: 0px;
+}
+
+#menu a {
+	padding: 4px 14px;
+	color: #A0A0C0;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #B05050;
+}
+
+#menu a.selected {
+	color: #202060;
+	background-color: #fff;
+	padding: 4px 13px;
+	border-top: 1px solid #aaa;
+	border-right: 1px solid #aaa;
+	border-left: 1px solid #aaa;
+	border-bottom: 0px solid #FFF;
+	cursor: default;
+}
+
+
+#contents_div {
+	color: #600000;
+	background-color: #fff;
+	padding: 20px;
+	padding-top: 20px;
+	text-align: left;
+	min-height: 500px;
+}
+
+#footer {
+	text-align: center;
+	font-size: 9px;
+	padding: 3px 20px;
+	color: #707070;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+	background-color: #f0f0ff;
+	letter-spacing: 2px;
+
+	background-image: url("banner_bg.gif");
+	background-position: top left;
+	background-repeat: repeat-x;
+	background-color: #00ff00;
+}
+
+#footer a {
+	color: #eee;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+}
+
+a {
+	color: #369;
+}
+
+a:hover {
+	color:#036;
+	text-decoration: none;
+}
+
+h1 {
+	text-align:left;
+	font-size: 16px;
+	margin: 0px 0px 4px 0px;
+	color: #606060;
+	font-weight: normal;
+}
+
+h2 {
+	text-align:left;
+	font-size: 12px;
+	margin: 0px 0px 2px 0px;
+	color: #808080;
+	font-weight: normal;
+}
+
+h3 {
+	color: #404040;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0px 0px 2px 0px;
+}
+
+p 
+{
+	text-align:justify;
+	line-height: 20px;
+}
+/*
+li {
+	margin: 6px 0px;
+	list-style-type: square;
+	line-height: 20px;
+}
+*/
+hr {
+	background-color: #FF9627;
+}
+
+#pub {
+	margin: 6px 0px;
+	list-style-type: square;
+	line-height: 20px;
+	color:#334;
+}
+
+#pub a {
+	color: #B05050;
+	text-decoration: none;
+}
+
+#pub a:hover {
+	color:#ff0000;
+	text-decoration: none;
+}
+
+li {
+	margin: 6px 0px;
+	list-style-type: square;
+	line-height: 20px;
+	color:#334;
+}
+
+li a {
+	color: #B05050;
+	text-decoration: none;
+}
+
+li a:hover {
+	color:#ff0000;
+	text-decoration: none;
+}
+

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/51/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo
+END
+SUMO4SVProbeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/31/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMO4SVProbeHandler.java
+END
+SUMOVProbeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/di-commonsense/!svn/ver/18/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOVProbeHandler.java
+END
+SUMOMobileNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/di-commonsense/!svn/ver/40/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMobileNode.java
+END
+SUMOVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/di-commonsense/!svn/ver/9/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOVehicle.java
+END
+SUMOVehicleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOVehicleDB.java
+END
+SUMOSpeedSenseSim.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/51/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOSpeedSenseSim.groovy
+END
+SUMOMNodeTravelTime2.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/di-commonsense/!svn/ver/41/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeTravelTime2.java
+END
+Script.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/di-commonsense/!svn/ver/27/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/Script.groovy
+END
+SUMOMNodeSegmentSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/41/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeSegmentSpeed.java
+END
+SUMOMNodeGPS.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/51/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeGPS.java
+END
+SUMOMNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/31/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeFactory.java
+END
+SUMOEdgeStatsSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/18/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOEdgeStatsSource.java
+END
+SUMOVProbeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/18/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOVProbeSource.java
+END
+SUMOMNodeSegmentSpeed2.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/di-commonsense/!svn/ver/40/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeSegmentSpeed2.java
+END
+SUMOMNodeTravelTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/41/4Sensing/trunk/src/sensing/persistence/simsim/speedsense/sumo/SUMOMNodeTravelTime.java
+END

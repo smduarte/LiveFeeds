@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/simsim/charts
+END
+HistogramInst.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/HistogramInst.groovy
+END
+WorkloadChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/WorkloadChart.groovy
+END
+Histogram.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/Histogram.groovy
+END
+MTimeChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/simsim/charts/MTimeChart.groovy
+END
+Cumulative.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/Cumulative.groovy
+END
+TimeChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/simsim/charts/TimeChart.groovy
+END
+WorkloadDistChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/WorkloadDistChart.groovy
+END
+NodeInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/NodeInfo.groovy
+END
+MsgPerSecondChart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/simsim/charts/MsgPerSecondChart.groovy
+END

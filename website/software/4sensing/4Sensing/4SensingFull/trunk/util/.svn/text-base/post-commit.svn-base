@@ -1,0 +1,5 @@
+#!/bin/bash
+REPOS="$1"
+REV="$2"
+
+echo "4sensing.version="$REV > ~/4Sensing/src/4sensing-ver.properties

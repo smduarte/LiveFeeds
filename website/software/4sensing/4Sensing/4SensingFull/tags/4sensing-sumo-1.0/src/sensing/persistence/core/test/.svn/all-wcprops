@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test
+END
+Main.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/Main.groovy
+END
+Filter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/Filter.groovy
+END
+SpeedSenseGridded.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/SpeedSenseGridded.groovy
+END
+JavaTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/JavaTest.groovy
+END
+Value.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/Value.groovy
+END
+Window.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/Window.groovy
+END
+NaNTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/NaNTest.groovy
+END
+FilterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/FilterTest.groovy
+END
+SpeedSenseSelector.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/SpeedSenseSelector.groovy
+END
+SpeedSenseReading.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/SpeedSenseReading.groovy
+END
+IntProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/IntProcessor.groovy
+END
+Window2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/Window2.groovy
+END
+StringProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/StringProcessor.groovy
+END
+NaNScripTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/NaNScripTest.groovy
+END
+SpeedSenseFilter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/test/SpeedSenseFilter.groovy
+END

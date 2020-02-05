@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/ntree
+END
+NTQueryService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/ntree/NTQueryService.groovy
+END
+NTQuery.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/ntree/NTQuery.groovy
+END
+UnknownQueryException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/ntree/UnknownQueryException.groovy
+END

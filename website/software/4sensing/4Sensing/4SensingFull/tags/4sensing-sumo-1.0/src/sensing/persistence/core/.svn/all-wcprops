@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core
+END
+ServiceManager.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/ServiceManager.groovy
+END
+Service.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/Service.groovy
+END
+QueryInterface.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/QueryInterface.groovy
+END
+ServicesConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/ServicesConfig.groovy
+END

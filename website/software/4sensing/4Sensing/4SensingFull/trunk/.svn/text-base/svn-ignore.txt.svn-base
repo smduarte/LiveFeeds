@@ -1,0 +1,11 @@
+*.bck
+*.tmp
+results
+logs
+lib
+bindev
+bin
+oldresults
+antbin
+package
+.settings

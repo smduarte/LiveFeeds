@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- JNLP File --> 
+<jnlp 
+  spec="1.0+" 
+  codebase="http://asc.di.fct.unl.pt/livefeeds/software/java/"> 
+  <information> 
+    <title>SimSim Chord Example</title> 
+    <vendor>LiveFeeds Project</vendor> 
+    <homepage href="docs/help.html"/> 
+    <description>SimSim Chord Example</description> 
+    <description kind="short">SimSim Chord Example</description> 
+    <icon href="images/swingset2.jpg"/> 
+    <icon kind="splash" href="images/splash.gif"/> 
+    <offline-allowed/> 
+  </information> 
+  <resources> 
+    <j2se version="1.6"/> 
+    <jar href="SimSimChordExample.jar"/> 
+  </resources> 
+  <application-desc main-class="example.chord.Main"/> 
+</jnlp>

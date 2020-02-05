@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail
+END
+HSSetupF2_05_10s.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_05_10s.groovy
+END
+HSSetupF2_15_10s.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_15_10s.groovy
+END
+HSSetupF2_15_10s_5kfixed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_15_10s_5kfixed.groovy
+END
+HSSetupF2_samp05.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_samp05.groovy
+END
+HSSetupF2_samp15.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_samp15.groovy
+END
+HSSetupF2_05_05s.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_05_05s.groovy
+END
+HSSetupF2_15_05s.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_15_05s.groovy
+END
+HSSetupF2_test.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_test.groovy
+END
+HSSetupF2_30_10s_5kfixed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_30_10s_5kfixed.groovy
+END
+HSSetupF2_samp10.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_samp10.groovy
+END
+HSSetupNFailure.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupNFailure.groovy
+END
+HSSetupF2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2.groovy
+END
+HSSetupF2_samp15_mqmetric.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/nodefail/HSSetupF2_samp15_mqmetric.groovy
+END

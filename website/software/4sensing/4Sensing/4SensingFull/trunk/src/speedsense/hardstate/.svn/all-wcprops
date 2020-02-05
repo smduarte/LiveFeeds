@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/speedsense/hardstate
+END
+TrafficSpeed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/speedsense/hardstate/TrafficSpeed.groovy
+END
+SSFilter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/speedsense/hardstate/SSFilter.groovy
+END
+TrafficHotspots.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/speedsense/hardstate/TrafficHotspots.groovy
+END

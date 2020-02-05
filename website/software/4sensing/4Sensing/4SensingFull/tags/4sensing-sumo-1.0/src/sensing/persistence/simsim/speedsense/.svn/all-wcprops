@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense
+END
+SpeedSenseNode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/SpeedSenseNode.groovy
+END
+SGPSReading.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/SGPSReading.groovy
+END
+SpeedSenseSim.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/SpeedSenseSim.groovy
+END

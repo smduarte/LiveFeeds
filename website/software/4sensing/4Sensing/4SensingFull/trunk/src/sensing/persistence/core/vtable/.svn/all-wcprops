@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/core/vtable
+END
+VTableDefinition.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/di-commonsense/!svn/ver/8/4Sensing/trunk/src/sensing/persistence/core/vtable/VTableDefinition.groovy
+END
+VTableManager.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/vtable/VTableManager.groovy
+END
+VTableService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/vtable/VTableService.groovy
+END

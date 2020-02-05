@@ -1,0 +1,213 @@
+<project name="4Sensing" default="deploy" basedir=".">
+	
+<!-- parameters used for run task !
+	runid  - string naming the simulation run, determines the path of the output files
+	runenv - run environment, determines which runenv_[runenv].sh file is used for the setup of JVM arguments
+	runtimes - number of simulations to run for each setup
+-->
+<property name="runid" value="sumo_regression"/>
+<property name="runenv" value="dev"/>
+<property name="runtimes" value="1"/>
+
+	
+<property name="cvs" location="/Users/heitor2/Documents/UNL MEI/30 Tese/90 INForum/CommonSenseDir/4Sensing/"/>
+<property name="pack" location="package"/>
+	
+<property name = "gpdlocation" value = "results/osm_50k_regression" />
+<property name = "gpdrun" value ="run_osm_50k_regression" />
+<property name = "gpdnsims" value ="5" />
+
+<path id="classpath">
+    <pathelement path="antbin"/>
+		<fileset dir="lib">
+			<include name="*.jar"/>
+		</fileset>
+</path>
+
+
+<taskdef name="groovyc"
+         classname="org.codehaus.groovy.ant.Groovyc"
+         classpathref="classpath"/>
+	
+<taskdef name="groovy"
+         classname="org.codehaus.groovy.ant.Groovy"
+         classpathref="classpath"/>
+
+
+<target name="compile">
+  <mkdir dir="antbin"/>
+  <groovyc srcdir="src" destdir="antbin" classpathref="classpath"/>
+</target>
+	
+<target name="jcompile">
+	<mkdir dir="antbin"/>
+	<javac srcdir="src" destdir="antbin" classpathref="classpath" debug="true"/>
+</target>
+	
+
+<target name="deploy" depends="jcompile, compile">
+  <!-- <delete dir="bin"/> -->
+	<copy todir="bin">
+		<fileset dir="antbin" />
+	</copy>
+	<copy file="src/4sensing.properties" todir="bin"/>
+	<copy file="src/4sensing-ver.properties" todir="bin"/>
+</target>
+
+<target name="clean">
+	<delete dir="antbin"/>
+	<delete dir="bin"/>
+</target>
+	
+<target name="run" depends="deploy">
+	<exec executable="./run.sh" spawn="true">
+		<arg value="${runid}"/>
+		<arg value="${runenv}"/>
+		<arg value="${runtimes}"/>
+	</exec>
+</target>
+
+<target name="cvs">
+  <copy todir="${cvs}" verbose="true">
+    <fileset dir="." >
+      <include name="*"/>
+      <include name="lib/**"/>
+      <exclude name="./svn-ignore.txt"/>
+    </fileset>
+  </copy>
+  <copy todir="${cvs}/src" verbose="true">
+    <fileset dir="src">
+      <exclude name="**/.svn"/>
+      <exclude name="4sensing.properties"/>
+      <exclude name="**/*.bck"/>
+      <exclude name="**/*.tmp"/>
+    </fileset>
+  </copy>
+</target>
+
+<target name="checkstatus">
+	<exec executable="./checkstatus.sh" failonerror="true"/>
+</target>
+
+<target name="pack" depends="checkstatus">
+	<mkdir dir="${pack}"/>
+	<tar destfile="${pack}/4sensing.tgz"
+		longfile="gnu"
+		compression="gzip"
+     		basedir="."
+     		excludes="package/**, **/.svn, **/CVS, antbin/**, bindev/**, bin/**, logs/**, results/**, oldresults/**"/>
+</target>
+
+<target name="packsrc" depends="checkstatus">
+        <mkdir dir="${pack}"/>
+        <tar destfile="${pack}/4sensing_src.tgz"
+                longfile="gnu"
+                compression="gzip"
+                basedir="src"
+                excludes="**/.svn, **/CVS"/>
+</target>
+
+
+<target name="gpdworkload" depends="deploy">
+	<groovy src="src/sensing/persistence/util/GPDWorkload.groovy" classpathref="classpath">
+		<arg value="${gpdnsims}"/>
+		<arg value="${gpdlocation}" />
+		<arg value="${gpdrun}"/>
+	</groovy>
+</target>
+
+<target name="gpdworkload_dep" depends="deploy">
+        <groovy src="src/sensing/persistence/util/GPDWorkloadDeprecated.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+
+<target name="gpderror" depends="deploy">
+        <groovy src="src/sensing/persistence/util/GPDError.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+<target name="gpdlatency" depends="deploy">
+        <groovy src="src/sensing/persistence/util/GPDLatency.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+<target name="gpdmsg" depends="deploy">
+        <groovy src="src/sensing/persistence/util/GPDMessages.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+
+<target name="gpdata" depends="gpdworkload, gpderror,gpdlatency, gpdmsg">
+</target>
+
+<target name="gpdworkloadsnap" depends="deploy">
+        <groovy src="src/sensing/persistence/util/snapshot/GPDWorkload.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+<target name="gpdlatencysnap" depends="deploy">
+        <groovy src="src/sensing/persistence/util/snapshot/GPDLatency.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+<target name="gpdmsgsnap" depends="deploy">
+        <groovy src="src/sensing/persistence/util/snapshot/GPDMessages.groovy" classpathref="classpath">
+                <arg value="${gpdnsims}"/>
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+
+<target name="gpdseghist" depends="deploy">
+        <groovy src="src/sensing/persistence/util/GPDSegHist.groovy" classpathref="classpath">
+                <arg value="${gpdlocation}" />
+                <arg value="${gpdrun}"/>
+        </groovy>
+</target>
+	
+<target name="segrate" depends="deploy">
+	 <java classname="groovy.lang.GroovyShell" fork="yes">
+	 	<arg value="src/sensing/persistence/util/sumo/SegmentRatingOut.groovy"/>
+	 	<classpath refid="classpath"/>
+	 	<jvmarg value="-Xmx800m"/>
+	 </java>
+</target>
+	
+<target name="ss_refdata" depends="deploy">
+    <groovy src="src/sensing/persistence/util/sumo/segmentspeed2/RefData.groovy" classpathref="classpath">
+    </groovy>
+</target>
+	
+<target name="ss_graph" depends="deploy">
+        <groovy src="src/sensing/persistence/util/sumo/segmentspeed2/Graph.groovy" classpathref="classpath">
+        </groovy>
+</target>
+
+<target name="ss_coverage" depends="deploy">
+        <groovy src="src/sensing/persistence/util/sumo/segmentspeed2/CoverageVsErrorGraph.groovy" classpathref="classpath">
+        </groovy>
+</target>
+
+
+	
+	
+</project>

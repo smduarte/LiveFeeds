@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/scheduler
+END
+SchedulerProvider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/scheduler/SchedulerProvider.groovy
+END
+SchedulerService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/scheduler/SchedulerService.groovy
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk
+END
+runenv_cluster.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/runenv_cluster.sh
+END
+checkstatus.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/checkstatus.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/di-commonsense/!svn/ver/7/4Sensing/trunk/.project
+END
+runenv_dev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/di-commonsense/!svn/ver/31/4Sensing/trunk/runenv_dev.sh
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/di-commonsense/!svn/ver/49/4Sensing/trunk/.classpath
+END
+resultcount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/resultcount.sh
+END
+map6.osm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/map6.osm
+END
+env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/env.sh
+END
+svn-ignore.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/di-commonsense/!svn/ver/6/4Sensing/trunk/svn-ignore.txt
+END
+displayoff.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/di-commonsense/!svn/ver/18/4Sensing/trunk/displayoff.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/build.xml
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/run.sh
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/deploy.sh
+END
+segmentRating_1800.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/di-commonsense/!svn/ver/27/4Sensing/trunk/segmentRating_1800.tsv
+END
+log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/log.sh
+END

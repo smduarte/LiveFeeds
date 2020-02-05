@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/di-commonsense/!svn/ver/52/4Sensing/trunk/src/sensing/persistence/core
+END
+ServiceManager.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/ServiceManager.groovy
+END
+Service.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/Service.groovy
+END
+QueryInterface.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/QueryInterface.groovy
+END
+ServicesConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/ServicesConfig.groovy
+END

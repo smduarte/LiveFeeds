@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- JNLP File --> 
+<jnlp 
+  spec="1.0+" 
+  codebase="http://asc.di.fct.unl.pt/livefeeds/software/java/"> 
+  <information> 
+    <title>LiveFeeds Simulation Example</title> 
+    <vendor>LiveFeeds Project</vendor> 
+    <homepage href="docs/help.html"/> 
+    <description>LiveFeeds Simulation Example</description> 
+    <description kind="short">LiveFeeds Example</description> 
+    <icon href="images/swingset2.jpg"/> 
+    <icon kind="splash" href="images/splash.gif"/> 
+    <offline-allowed/> 
+  </information> 
+  <resources> 
+    <j2se version="1.6+"
+	initial-heap-size="256m"
+	max-heap-size="1024m" />
+    <jar href="LiveFeedsExample.jar"/> 
+  </resources> 
+  <application-desc main-class="livefeeds.twister7.config.LiveFeeds"/> 
+</jnlp>

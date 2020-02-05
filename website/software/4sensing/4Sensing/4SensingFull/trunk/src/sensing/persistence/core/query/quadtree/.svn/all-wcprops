@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/di-commonsense/!svn/ver/46/4Sensing/trunk/src/sensing/persistence/core/query/quadtree
+END
+QTConstants.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/quadtree/QTConstants.groovy
+END
+QTQueryInstance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/quadtree/QTQueryInstance.groovy
+END
+QTQuery.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/query/quadtree/QTQuery.groovy
+END
+QTQueryService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/di-commonsense/!svn/ver/46/4Sensing/trunk/src/sensing/persistence/core/query/quadtree/QTQueryService.groovy
+END

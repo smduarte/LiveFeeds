@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/sensors/monitoring
+END
+WorkloadReading.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/sensors/monitoring/WorkloadReading.groovy
+END
+WorkloadSensor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/core/sensors/monitoring/WorkloadSensor.groovy
+END

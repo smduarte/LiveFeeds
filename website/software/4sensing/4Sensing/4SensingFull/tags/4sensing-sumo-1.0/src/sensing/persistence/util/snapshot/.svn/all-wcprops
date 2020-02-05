@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/snapshot
+END
+GPDMessages.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/snapshot/GPDMessages.groovy
+END
+GPDLatency.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/snapshot/GPDLatency.groovy
+END
+GPDWorkload.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/snapshot/GPDWorkload.groovy
+END

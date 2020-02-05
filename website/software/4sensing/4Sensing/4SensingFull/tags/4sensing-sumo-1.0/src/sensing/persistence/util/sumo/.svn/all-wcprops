@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo
+END
+MinTravelTime.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/MinTravelTime.groovy
+END
+CongestedCoverageVsErrorSmGraph.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/CongestedCoverageVsErrorSmGraph.groovy
+END
+CoverageVsErrorSmGraph.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/CoverageVsErrorSmGraph.groovy
+END
+KmlBuilder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/KmlBuilder.groovy
+END
+SegmentRating.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/SegmentRating.groovy
+END
+TravelTime2Gpd.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/TravelTime2Gpd.groovy
+END
+TravelTime2Gpd_.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/TravelTime2Gpd_.groovy
+END
+LaneTT.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/LaneTT.groovy
+END
+TTErrorHist.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/TTErrorHist.groovy
+END
+CoverageVsErrorSecsGraph.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/CoverageVsErrorSecsGraph.groovy
+END
+AddTTEdgeData.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/AddTTEdgeData.groovy
+END
+TravelTime.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/TravelTime.groovy
+END
+NodeRateTTError.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/NodeRateTTError.groovy
+END
+SegmentRatingTimestepOut.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/SegmentRatingTimestepOut.groovy
+END
+SuccessRate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/SuccessRate.groovy
+END
+SegmentRatingTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/SegmentRatingTest.groovy
+END
+EdgeStats.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/EdgeStats.groovy
+END
+ResultReader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/ResultReader.groovy
+END
+CongestedStats.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/CongestedStats.groovy
+END
+SegmentRatingOut.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/util/sumo/SegmentRatingOut.groovy
+END

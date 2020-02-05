@@ -1,0 +1,48 @@
+package sensing.persistence.simsim.speedsense.osm;
+
+import java.util.UUID;
+import simsim.core.PeriodicTask;
+import static simsim.core.Simulation.rg;
+import simsim.gui.canvas.*;
+import sensing.persistence.simsim.MobileNode;
+import sensing.persistence.simsim.Node;
+import sensing.persistence.simsim.speedsense.SGPSReading;
+
+public class MobileNodeJ extends MobileNode {
+	final UUID id;
+	protected SGPSReading r;
+	Node homeBase;
+	
+	public MobileNodeJ() {
+		id = UUID.randomUUID();
+		r = new SGPSReading();
+		r.setProperty("mNodeId", id);
+	}
+	
+	public void init() {
+		new PeriodicTask(rg.nextInt(5), 5) {
+			public void run() {
+				reportPosition();
+			}
+		};
+	}
+	
+	protected void reportPosition() {
+		r.setProperty("lat", 38.748100);
+		r.setProperty("lon", -9.1639818);
+		r.setProperty("segmentId", "22278074_0_F");
+		homeBase.sensorInput(r);
+	}
+	
+	public void setHomeBase(Node homeBase) {
+		this.homeBase = homeBase;
+	}
+	
+	public void updatePosition() {}
+	
+	
+	public void displayOn(Canvas c) {}
+	
+	public void displayDetailOn(Canvas c) {}
+
+}

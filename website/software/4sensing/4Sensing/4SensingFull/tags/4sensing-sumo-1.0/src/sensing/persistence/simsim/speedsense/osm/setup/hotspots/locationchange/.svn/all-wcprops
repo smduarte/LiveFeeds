@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange
+END
+HSSetupLC2_5k_10m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange/HSSetupLC2_5k_10m.groovy
+END
+HSSetupLC2_50k_baseline.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange/HSSetupLC2_50k_baseline.groovy
+END
+HSSetupLC2_50k_10m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange/HSSetupLC2_50k_10m.groovy
+END
+HSSetupLC2_test.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange/HSSetupLC2_test.groovy
+END
+HSSetupLC2_50k_15m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/locationchange/HSSetupLC2_50k_15m.groovy
+END

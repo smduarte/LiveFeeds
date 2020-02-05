@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta http-equiv="content-script-type" content="text/javascript">
+    <meta name="robots" content="INDEX,FOLLOW">
+    <meta name="revisit-after" content="10 days">
+    <meta name="rating" content="GENERAL">
+    <meta name="distribution" content="GLOBAL">
+    <link rel="shortcut icon" href="html_files/favicon.ico"
+      type="image/x-icon">
+    <link href="html_files/livefeeds_style.css" rel="stylesheet"
+      type="text/css">
+    <title>LiveFeeds</title>
+  </head>
+  <body>
+    <br>
+    <div id="banner">
+      <table id="banner">
+        <tbody>
+          <tr>
+            <td style="height: 100px; width: 89px;"><img style="width:
+                86px; height: 100px;" alt="persys logo"
+                src="html_files/livefeeds-logo.png"><br>
+            </td>
+            <td>
+              <h1>LiveFeeds <span style="font-size: 6.000000pt;
+                  font-family: 'Verdana'; color: rgb(19.607843%,
+                  26.666668%, 37.254903%)">PTDC/EIA/76114/2006 </span></h1>
+              <h2>Dissemina&ccedil;&atilde;o P2P de Conte&uacute;dos Web
+                Syndication<br>
+              </h2>
+              <h2>P2P Dissemination of Web Syndication Content<br>
+              </h2>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="menu"> <a href="About.html" class="selected">About</a> <a
+        href="Team.html">Team</a> <a href="Publications.html">Publications</a>
+      <a href="Software.html">Software</a><br>
+    </div>
+    <div id="contents_div">
+      <h2>Overview</h2>
+      <hr style="width: 100%; height: 2px;">
+      <p>LiveFeeds focuses on Web Syndication - a concept that enhances
+        the World Wide Web experience by helping users to keep track of
+        the updates made to their favorite websites, blogs and web
+        content in general. Web Syndication is attractive and becoming
+        increasingly popular, as testified by the number of top sites
+        that already offer RSS [1] feeds. In effect, the ability to
+        automatically aggregate and update many web feeds, summarizing
+        the content of many different sources, makes Web Syndication a
+        convenient and natural addition to the World Wide Web,
+        especially since the underlying model of the latter has relied
+        implicitly on the users to poll the web sources themselves in
+        order to stay up-to-date.<br>
+      </p>
+      <div style="text-align: justify;"> In time, Web Syndication could
+        very well evolve into a full fledged notification service for
+        the World Wide Web. Although that is still somewhat speculative,
+        an informal survey of the syndication content provided by major
+        web content providers already shows that it is being used to
+        disseminate popular, time-critical events, such as news alerts
+        and sport results. Such usage is surely appealing but raises
+        important scalability concerns, which are worsened if more
+        aggressive requirements in liveliness (event freshness) are
+        factored in. The root of the problem lies in the fact that Web
+        Syndication is currently being pursued based on models [1, 2]
+        that essentially only detail the web feed structure and, for all
+        practical purposes, still rely on client-side polling as the
+        basis for collecting updates. This straightforward model had the
+        advantage of allowing a quick, incremental deployment of the
+        service on top of the already existing server infrastructure
+        but, in the future, it could lead to considerable strains on the
+        communication budgets of content providers and users alike.
+        Improving liveliness is expensive using polling techniques and
+        multiplied by large-scale it translates to the costly problem of
+        dealing with large numbers of users polling frequently and
+        systematically many web feeds. This could ultimately lead to a
+        backlash or complete abandonment of Web Syndication, reenacting
+        a similar episode to PointCast &#769;s debacle [3].<br>
+        <br>
+        There are other issues in the current approaches to Web
+        Syndication. An important one pertains to its poor suitability
+        when considered in conjunction with Mobility. Again, client-side
+        polling is, generally, a poor choice for mobile environments. It
+        is wasteful in terms of energy and bandwidth, both of which are
+        often scarce and expensive in those situations. In
+        mobility-driven scenarios, where disconnection and poor
+        connectivity are the norm, the user is likely less interested in
+        a full report of each of the web feeds he/she subscribes but,
+        instead, would prefer to be alerted for particularly important
+        events. In fact, it is arguable that the ability to filter web
+        feeds and prioritize events is desirable even for the generality
+        of users. Addressing these issues introduces interesting
+        challenges to Web Syndication, mainly in the form of large-scale
+        notification with filtering requirements, which is a current
+        research topic, e.g. [4, 5].<br>
+        <br>
+        We intend to address the problems discussed above by pursuing
+        large-scale Web Syndication in a cooperative manner. Under such
+        principle, the server-side model will be preserved and it will
+        be up to the clients with similar interests to act in concert
+        towards the desired goal. Together, they will be involved in
+        collecting, filtering and distributing web feeds content among
+        themselves. In order to achieve these goals, we will devise ways
+        to incorporate P2P principles to form the basis of an
+        alternative Web Syndication event dissemination infrastructure,
+        which will be modeled primarily around a (true) push-based model
+        [3]. Additionally, the project will seek ways to enhance the Web
+        Syndication model with support for fine-grained filtering and
+        prioritization of syndication content in ways compatible to its
+        large-scale dissemination goals and, in particular, without
+        cumbering the servers with that additional effort.<br>
+        <br>
+        We also want to explore social networking concepts to allow
+        users with similar interests (subscriptions) to share
+        information automatically and benefit from their experience as a
+        collective. This opportunity is missed in the prevalent Web
+        Syndication model, in which users act alone and interact with
+        servers completely isolated from each other, yet it becomes
+        feasible and natural with the move to a P2P-based
+        infrastructure, as we advocate. However, this can be a potential
+        source for abuse, so this aspect must be addressed in the
+        proposed solution in a suggestive, non-intrusive spirit and
+        include proper safeguards to avoid spam-like problems. In
+        addition to that, it will be important to ensure that the move
+        from an individualistic subscription model to a distributed,
+        cooperative one does notjeopardize other basic security
+        requirements, such as privacy, authenticity and fair use.<br>
+      </div>
+      <br>
+      <h3><a href="proposal/LiveFeedsCandidatura.pdf">Full Proposal <br>
+        </a></h3>
+      <br>
+      [1] RSS 2.0 Specification. http://blogs.law.harvard.edu/tech/rss.<br>
+      [2] M. Nottingham and R. Sayre, The Atom Syndication Format. RFC
+      4287, 2005.<br>
+      [3] M. Franklin and S. Zdonik, Data in your face : push technology
+      in perspective, in SIGMOD &#8217;98, 1998.<br>
+      [4] I. Aekaterinidis and P. Triantafillou, Pastrystrings: A
+      comprehensive content-based publish/subscribe dht network, in
+      ICDCS &#8217;06, 2006.<br>
+      [5] E. Anceaume, et al., A semantic overlay for self- peer-to-peer
+      publish/subscribe, in ICDCS &#8217;06, 2006. <br>
+      <br>
+      <br>
+    </div>
+    <div id="footer">Copyright &copy; 2008-2011 LiveFeeds Project. All
+      Rights Reserved. </div>
+  </body>
+</html>

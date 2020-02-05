@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/hardstate
+END
+TrafficSpeed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/hardstate/TrafficSpeed.groovy
+END
+SSFilter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/hardstate/SSFilter.groovy
+END
+TrafficHotspots.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/speedsense/hardstate/TrafficHotspots.groovy
+END

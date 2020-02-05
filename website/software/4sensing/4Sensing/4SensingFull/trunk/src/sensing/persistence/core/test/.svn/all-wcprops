@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test
+END
+Main.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/Main.groovy
+END
+Filter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/Filter.groovy
+END
+SpeedSenseGridded.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/SpeedSenseGridded.groovy
+END
+JavaTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/JavaTest.groovy
+END
+Value.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/Value.groovy
+END
+Window.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/Window.groovy
+END
+NaNTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/NaNTest.groovy
+END
+FilterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/FilterTest.groovy
+END
+SpeedSenseSelector.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/SpeedSenseSelector.groovy
+END
+SpeedSenseReading.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/SpeedSenseReading.groovy
+END
+IntProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/IntProcessor.groovy
+END
+Window2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/Window2.groovy
+END
+StringProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/StringProcessor.groovy
+END
+NaNScripTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/NaNScripTest.groovy
+END
+SpeedSenseFilter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/di-commonsense/!svn/ver/5/4Sensing/trunk/src/sensing/persistence/core/test/SpeedSenseFilter.groovy
+END

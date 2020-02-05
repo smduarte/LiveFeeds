@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild
+END
+HSSetupTR2_5k_5m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_5k_5m.groovy
+END
+HSSetupTR2_50k_10m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_50k_10m.groovy
+END
+HSSetupTR2_5k_10m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_5k_10m.groovy
+END
+HSSetupTR2_50k_baseline.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_50k_baseline.groovy
+END
+HSSetupTR2_5k_baseline.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_5k_baseline.groovy
+END
+HSSetupTR2_test.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_test.groovy
+END
+HSSetupTR2_500_5m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_500_5m.groovy
+END
+HSSetupTR2_50k_15m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_50k_15m.groovy
+END
+HSSetupTR2_5k_15m.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/di-commonsense/!svn/ver/50/4Sensing/tags/4sensing-sumo-1.0/src/sensing/persistence/simsim/speedsense/osm/setup/hotspots/treerebuild/HSSetupTR2_5k_15m.groovy
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2
+END
+ss_coverage_vcount_gt1.gp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_coverage_vcount_gt1.gp
+END
+ss_hist_sumoerror.gp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_hist_sumoerror.gp
+END
+ss_speedrate_errorkmh.gp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_speedrate_errorkmh.gp
+END
+ss_speedrate_coverage.gp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_speedrate_coverage.gp
+END
+ss_speedrate_coverage_vcount_gt1.gp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_speedrate_coverage_vcount_gt1.gp
+END
+ss_hist_speedrate_100.gp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_hist_speedrate_100.gp
+END
+ss_hist_error.gp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_hist_error.gp
+END
+ss_coverage_all.gp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/di-commonsense/!svn/ver/35/4Sensing/trunk/graphs/segmentspeed2/ss_coverage_all.gp
+END
