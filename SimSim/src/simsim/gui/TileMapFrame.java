@@ -7,7 +7,7 @@ import org.jdesktop.swingx.mapviewer.TileFactoryInfo;
 
 public class TileMapFrame {
 
-	public static enum Map { CLOUDMADE, OSM, MAPQUEST, OVI } ; 
+	public static enum Map { OSM, STAMEN} ; 
 	
 	public JXMapViewer map;
 
@@ -32,20 +32,7 @@ public class TileMapFrame {
 		map = GuiDesktop.gd.createMapFrame(name, fps, titleBar).mapViewer ;
 		
 		final int max = 19;
-//		final TileFactoryInfo googleMaps = new TileFactoryInfo(1, max - 2, max, 256, true, true, "http://mt1.google.com/vt/lyrs=m", "x", "y", "z") {
-//			public String getTileUrl(int x, int y, int zoom) {
-//				zoom = max - zoom;
-//				return String.format("%s&x=%s&y=%s&z=%s", baseURL, x, y, zoom);
-//			}
-//		};
 
-		TileFactoryInfo cloudmade = new TileFactoryInfo(1, max - 2, max, 256, true, true, "http://b.tile.cloudmade.com/9a2ba90d32a25736a326c403beb36633/53624/256", "x", "y", "z") {
-			public String getTileUrl(int x, int y, int zoom) {
-				zoom = max - zoom;
-				String url = this.baseURL + "/" + zoom + "/" + x + "/" + y + ".png";
-				return url;
-			}
-		};
 
 		TileFactoryInfo osm = new TileFactoryInfo(1, max - 2, max, 256, true, true, "http://tile.openstreetmap.org", "x", "y", "z") {
 			public String getTileUrl(int x, int y, int zoom) {
@@ -56,32 +43,15 @@ public class TileMapFrame {
 
 		};
 
-		TileFactoryInfo mapQuest = new TileFactoryInfo(1, max - 2, max, 256, true, true, "http://otile1.mqcdn.com/tiles/1.0.0/osm", "x", "y", "z") {
+		TileFactoryInfo stamen = new TileFactoryInfo(1, 18, 19, 256, true, true, "http://tile.stamen.com/toner/", "z", "x", "y") {
 			public String getTileUrl(int x, int y, int zoom) {
 				zoom = max - zoom;
-				String url = this.baseURL + "/" + zoom + "/" + x + "/" + y + ".png";
-				return url;
+				return String.format("%s/%s/%s/%s.png", this.baseURL, zoom, x, y);
 			}
 		};
 
-
-		TileFactoryInfo ovi = new TileFactoryInfo(1, max - 2, max, 256, true, true, "http://maptile.maps.svc.ovi.com/maptiler/maptile/newest/terrain.day", "x", "y", "z") {
-			public String getTileUrl(int x, int y, int zoom) {
-				zoom = max - zoom;
-				String url = this.baseURL + "/" + zoom + "/" + x + "/" + y + "/256/png8";
-				return url;
-			}
-		};
-
-		TileFactoryInfo bing = new TileFactoryInfo(1, 18, 19, 256, true, true, "http://ecn.t2.tiles.virtualearth.net/tiles/r", "x", "y", "z") {
-			public String getTileUrl(int x, int y, int zoom) {
-				zoom = max - zoom;
-				String url = this.baseURL + TileXYToQuadKey(x,y,zoom) + "?g=761&mkt=en-us&shading=hill";
-				return url;
-			}
-		};
-
-		TileFactoryInfo tfi[] = new TileFactoryInfo[] {cloudmade, osm, mapQuest, ovi} ;
+		
+		TileFactoryInfo tfi[] = new TileFactoryInfo[] {osm, stamen} ;
 		
 		map.setTileFactory(new DefaultTileFactory( tfi[ prov.ordinal() ] ));
 		map.setCenterPosition(new GeoPosition(lat, lon));
